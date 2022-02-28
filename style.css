@@ -1,0 +1,180 @@
+body {
+  position: absolute;
+  width: 1440px;
+  height: 1489px;
+  left: 0px;
+  top: 0px;
+
+  background: #fafafa;
+}
+.main-header {
+  position: absolute;
+  width: 278px;
+  height: 47px;
+  left: 243px;
+  top: 110px;
+
+  font-family: PT Serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 48px;
+  letter-spacing: -0.045em;
+
+  color: #000000;
+}
+.meet-team {
+  position: absolute;
+  width: 117px;
+  height: 27px;
+  left: 736px;
+  top: 110px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 27px;
+  /* identical to box height */
+
+  text-transform: uppercase;
+
+  color: #000000;
+}
+.about-team {
+  position: absolute;
+  width: 439px;
+  height: 87px;
+  left: 736px;
+  top: 147px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 27px;
+
+  color: #000000;
+}
+
+div.bill-mahoney {
+  position: absolute;
+  width: 238px;
+  height: 341px;
+  left: 240px;
+  top: 330px;
+  padding-top: 85.5px;
+  margin-right: 10px;
+}
+.position-held {
+  position: absolute;
+  width: 102px;
+  height: 16px;
+
+  font-family: PT Serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height */
+
+  text-transform: uppercase;
+
+  color: #000000;
+  /* transform: rotate(90deg); */
+}
+div.sarah-cabrera {
+  position: absolute;
+  width: 238px;
+  height: 347px;
+  left: 571px;
+  top: 429px;
+
+  background: #c4c4c4;
+}
+.person-name {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+div.shae-le {
+  position: absolute;
+  width: 238px;
+  height: 341px;
+  left: 901px;
+  top: 330px;
+
+  background: #c4c4c4;
+}
+div.skylah-lu {
+  position: absolute;
+  width: 237px;
+  height: 341px;
+  left: 241px;
+  top: 845px;
+
+  background: #c4c4c4;
+}
+div.griff-richards {
+  position: absolute;
+  width: 238px;
+  height: 347px;
+  left: 571px;
+  top: 944px;
+
+  background: #c4c4c4;
+}
+
+div.stan-john {
+  position: absolute;
+  width: 335.75px;
+  height: 449px;
+  left: 864.69px;
+  top: 796px;
+}
+/* div.position-held1 {
+  position: absolute;
+  width: 102px;
+  height: 16px;
+  left: 504px;
+  top: 330px;
+  margin-bottom: 10px;
+  margin-top: 30.64px;
+
+  font-family: PT Serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height 
+
+  text-transform: uppercase;
+
+  color: #000000;
+
+  transform: rotate(90deg);
+} */
+.copyright {
+  position: absolute;
+  width: 287px;
+  height: 17px;
+  left: 547px;
+  top: 1448px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #a9a9a9;
+}
